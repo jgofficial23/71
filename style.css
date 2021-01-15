@@ -1,0 +1,57 @@
+.mycontinent {
+    line-height: 2;
+}
+
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+    text-align: center;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center
+}
+
+.Asia,
+.Africa,
+.Australia,
+.Antarctica,
+.Europe,
+.NorthAmerica,
+.SouthAmerica {
+    cursor: pointer;
+}
+
+.Asia,
+.Africa,
+.Australia,
+.Antarctica,
+.Europe,
+.NorthAmerica,
+.SouthAmerica hr {
+    margin-bottom: 10px;
+}
+
+body {
+    text-align: center;
+
+}
+
+#comment {
+    height: 100px;
+}
+
+#formfill {
+    padding-top: 700px;
+    background-color: aquamarine;
+    height:500px;
+}
+
